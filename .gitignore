@@ -1,0 +1,7 @@
+
+node_modules/**
+*.pem
+views/not-found.ejs
+views/home.ejs
+public/favicon.ico
+404.html
